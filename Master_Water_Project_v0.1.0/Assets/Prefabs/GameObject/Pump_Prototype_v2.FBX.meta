@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: a3e855fe1e462f04b821a33b75eeffd0
-timeCreated: 1526564449
-licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: GHPump_BearingCasing_001
     100002: GHPump_Impellor_001
@@ -44,17 +42,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: GHPump_Blue_Mat
-    second: {fileID: 2100000, guid: 3be525c9334a8b24fb36dadb8e2b12d5, type: 2}
+    second: {fileID: 2100000, guid: 39bc9626556d3fe4f98289ec59e4241d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: GHPump_Impellor_Gray_Mat
-    second: {fileID: 2100000, guid: 8b20cca2b678a7f4baeb7f87c8f126d8, type: 2}
+    second: {fileID: 2100000, guid: 2f5f88e33fc72a642b57b61b426f12dc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: GHPump_MotorHousing_Yellow_Mat
-    second: {fileID: 2100000, guid: a06c968e2e2ac3f4c95b17326e2a32b4, type: 2}
+    second: {fileID: 2100000, guid: aef0f0435e11b3f4598a23b952a381db, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -73,6 +71,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -87,6 +86,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -97,16 +97,23 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -121,7 +128,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
