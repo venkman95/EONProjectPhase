@@ -3929,7 +3929,7 @@ GameObject:
   - component: {fileID: 833922225}
   - component: {fileID: 833922224}
   m_Layer: 5
-  m_Name: Operation_Pane
+  m_Name: Composite_Pane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4077,7 +4077,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: d369dfb2671bc2b4dada757b9741fc36, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1a676c49cfb9d4d4a9479f30caf0da61, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4531,7 +4531,7 @@ GameObject:
   - component: {fileID: 980592020}
   - component: {fileID: 980592021}
   m_Layer: 5
-  m_Name: Assembly_Pane
+  m_Name: Grab_Pane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4658,7 +4658,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: c4b89498df2f7534da2dbd5975156896, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fdbe39bff5d25bf44b83b5f67abaea02, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
