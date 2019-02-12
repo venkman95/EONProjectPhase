@@ -1980,7 +1980,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 6a6d9418d2d29004090e46b5239aab76, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 73869847de4cbb94e963a31f3a94df2a, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2445,7 +2445,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Grab vs Composite
+  m_Text: 'Learn how to sample
+
+'
 --- !u!222 &388852423
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3590,7 +3592,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Time Wei
+  m_Text: Practice sampling
 --- !u!222 &760561619
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3669,7 +3671,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Grab
+  m_Text: Assembly
 --- !u!222 &768265839
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4508,7 +4510,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 6a6d9418d2d29004090e46b5239aab76, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 73869847de4cbb94e963a31f3a94df2a, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -5788,7 +5790,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Composite
+  m_Text: Operation
 --- !u!222 &1285238113
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5862,7 +5864,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: fdbe39bff5d25bf44b83b5f67abaea02, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7c40ccf6d87a7a644b172971b47b28be, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -6475,7 +6477,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: d45a224250cd1ef49a33a5d862076388, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 330a9232c05610a4faaee137adec90a8, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -7175,7 +7177,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: d45a224250cd1ef49a33a5d862076388, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 330a9232c05610a4faaee137adec90a8, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -8055,7 +8057,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: fdbe39bff5d25bf44b83b5f67abaea02, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7c40ccf6d87a7a644b172971b47b28be, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -8679,7 +8681,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Composite
+  m_Text: Sampling Basics
 --- !u!222 &2004802292
 CanvasRenderer:
   m_ObjectHideFlags: 0
