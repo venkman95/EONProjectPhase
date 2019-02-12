@@ -59,13 +59,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sampling/SamplingSplashScreen.unity
     guid: 955d6ac22dc63c04eabd51f494ca78db
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Sampling/GeneralMainMenu.unity
     guid: fe4c3d03f26234649a30a3b9125a6bb1
   - enabled: 1
     path: Assets/Scenes/Sampling/CompositeMainMenu.unity
     guid: 26b2e140d72ce1c47bcef091aa7bb91c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Sampling/AsepticMainMenu.unity
     guid: 01e28a66119654a40a670564bcba09ba
   m_configObjects: {}
