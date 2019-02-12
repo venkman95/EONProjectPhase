@@ -1905,7 +1905,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Composite
+  m_Text: Fun Facts
 --- !u!222 &325753713
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2445,7 +2445,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Grab vs Composite
+  m_Text: Information
 --- !u!222 &388852423
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3590,7 +3590,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Time Vs Flow
+  m_Text: What you need and don't need to know
 --- !u!222 &760561619
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3669,7 +3669,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Grab
+  m_Text: Why to Sample
 --- !u!222 &768265839
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4077,7 +4077,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: d369dfb2671bc2b4dada757b9741fc36, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e42b4a91006c35c48a43e451d693fb42, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4658,7 +4658,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: c4b89498df2f7534da2dbd5975156896, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6bd0974f6176492418ce5da91d95aa09, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4889,7 +4889,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Samples
+  m_Text: General
 --- !u!222 &1005878084
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5788,7 +5788,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Composite
+  m_Text: Safety
 --- !u!222 &1285238113
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8679,7 +8679,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Samples
+  m_Text: General
 --- !u!222 &2004802292
 CanvasRenderer:
   m_ObjectHideFlags: 0
