@@ -161,7 +161,7 @@ GameObject:
   - component: {fileID: 20905762}
   - component: {fileID: 20905761}
   m_Layer: 5
-  m_Name: Operation_Pane
+  m_Name: Topthingforsuccess_Pane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -252,7 +252,7 @@ GameObject:
   - component: {fileID: 25641188}
   - component: {fileID: 25641187}
   m_Layer: 5
-  m_Name: Operation_Pane
+  m_Name: Documentation_Pane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1432,7 +1432,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Scenarios
+  m_Text: Fun Facts
 --- !u!222 &256824917
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2177,7 +2177,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 193063a5bc2dfcd42bfe67d1ad9cd5e3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6bd0974f6176492418ce5da91d95aa09, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2208,10 +2208,10 @@ RectTransform:
   m_Father: {fileID: 2094633886}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: -0.1, y: 0}
-  m_AnchorMax: {x: 2.5, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 506, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &384438747
 GameObject:
@@ -2445,7 +2445,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Information
+  m_Text: Information on sampling.
 --- !u!222 &388852423
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2488,10 +2488,10 @@ RectTransform:
   m_Father: {fileID: 20905760}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: -0.5, y: 0}
-  m_AnchorMax: {x: 1.5, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 316, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &393521369
 MonoBehaviour:
@@ -2625,7 +2625,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 6c0ba7bb3b01c7c44bc9bb97c90210e4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e42b4a91006c35c48a43e451d693fb42, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -3590,7 +3590,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: What you need and don't need to know
+  m_Text: What you need and don't need to know.
 --- !u!222 &760561619
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4077,7 +4077,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: e42b4a91006c35c48a43e451d693fb42, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 62b0004debecbd94dab88223e8305a1d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4658,7 +4658,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 6bd0974f6176492418ce5da91d95aa09, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fab019a8a7ab44240a1f0cb9a5c01b57, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5375,7 +5375,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: e88b79efec617044eba45ec18e0fc365, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c425d051fb866db4e84c202a93787cbb, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -5406,10 +5406,10 @@ RectTransform:
   m_Father: {fileID: 25641186}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: -0.5, y: 0}
-  m_AnchorMax: {x: 1.5, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 326, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1145641817
 GameObject:
@@ -5788,7 +5788,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Safety
+  m_Text: Procedures
 --- !u!222 &1285238113
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7101,7 +7101,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: One
+  m_Text: Importance of sampling
 --- !u!222 &1575440878
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8412,7 +8412,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Two
+  m_Text: Documentation
 --- !u!222 &1946010360
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8830,7 +8830,7 @@ GameObject:
   - component: {fileID: 2094633888}
   - component: {fileID: 2094633887}
   m_Layer: 5
-  m_Name: Assembly_Pane
+  m_Name: Importance_Pane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9219,7 +9219,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Three
+  m_Text: Top things for sampling success
 --- !u!222 &2134599474
 CanvasRenderer:
   m_ObjectHideFlags: 0
