@@ -68,4 +68,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sampling/AsepticMainMenu.unity
     guid: 01e28a66119654a40a670564bcba09ba
+  - enabled: 1
+    path: Assets/Scenes/Sampling/SinkFunctionality.unity
+    guid: eca1bebfe038eec4ba1fa10476f71b97
   m_configObjects: {}
